@@ -22,7 +22,3 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hyd3-14&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hyd3-14&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hyd3-14&theme=gruvbox&utcOffset=9)
-
-## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=Hyd3-14&theme=gruvbox)
-
