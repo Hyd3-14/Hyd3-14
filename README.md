@@ -35,7 +35,7 @@ I often report bugs with reproducible environments, logs, source-level investiga
 
 ## Contact
 
-- Email: [hyd3-14.dev@gmail.com](mailto:hyd3-14.dev@gmail.com)
+- Email: [hyd3.dev@gmail.com](mailto:hyd3.dev@gmail.com)
 - X: [@Cobalt_14](https://x.com/Cobalt_14)
 
 ## GitHub Stats
