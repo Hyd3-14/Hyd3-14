@@ -1,8 +1,8 @@
 # Hyd3-14
 
-Software engineering student focused on **security**, **developer experience**, and **practical web infrastructure**.
+Software engineering student interested in **security**, **developer experience**, and **practical web infrastructure**.
 
-I am particularly interested in building software that is easier to develop, review, deploy, and operate safely.
+I enjoy building software that is easier to develop, review, deploy, and operate safely.
 
 ## Current Focus
 
@@ -33,7 +33,14 @@ I often report bugs with reproducible environments, logs, source-level investiga
 - [Qiita](https://qiita.com/Hyd3-14)
 - [Zenn](https://zenn.dev/hid3_14)
 
+## Contact
+
+- Email: [hyd3-14.dev@gmail.com](mailto:hyd3-14.dev@gmail.com)
+- X: [@Cobalt_14](https://x.com/Cobalt_14)
+
 ## GitHub Stats
 
 ![GitHub profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hyd3-14&theme=gruvbox)
+
 ![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hyd3-14&theme=gruvbox)
+![Repositories per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hyd3-14&theme=gruvbox)
